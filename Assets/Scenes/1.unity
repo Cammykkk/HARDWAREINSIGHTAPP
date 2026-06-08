@@ -1564,7 +1564,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Asistente de Reparaci\xF3n Asistida."
+  m_text: Asistente de Reparacion Asistida.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 93232701c51559b40a55631d626f233f, type: 2}
   m_sharedMaterial: {fileID: 192356918307733818, guid: 93232701c51559b40a55631d626f233f, type: 2}
